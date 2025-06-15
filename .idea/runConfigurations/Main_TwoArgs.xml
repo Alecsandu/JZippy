@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main-TwoArgs" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="JZippy" />
+    <option name="PROGRAM_PARAMETERS" value="hello.txt hello.zip" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
